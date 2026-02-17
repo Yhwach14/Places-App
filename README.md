@@ -10,11 +10,9 @@ A lightweight Flutter application built to demonstrate seamless integration betw
 4. Permission Handling
 
 ## Screenshots
-<img width="1280" height="2856" alt="Screenshot_1771327783" src="https://github.com/user-attachments/assets/327d7be5-bca7-4f17-8b89-5c76685ba239" />
-<img width="1280" height="2856" alt="Screenshot_1771327819" src="https://github.com/user-attachments/assets/6d9b918b-7860-48d1-bdc4-c8e6f816c856" />
-<img width="1280" height="2856" alt="Screenshot_1770915242" src="https://github.com/user-attachments/assets/408468dc-8983-421d-8145-7b0f0298d9e6" />
-<img width="1280" height="2856" alt="Screenshot_1771327783" src="https://github.com/user-attachments/assets/a6d7810c-6ca2-4c25-90fa-a60ddbf44b38" />
-<img width="1280" height="2856" alt="Screenshot_1771327787" src="https://github.com/user-attachments/assets/52b9283d-5d81-4f84-9203-b03aee9354cf" />
-
+<img width="1280" height="2856" alt="Screenshot_1771327783" src="https://github.com/user-attachments/assets/395ea30d-ac5e-4b84-812f-32e1e2663979" />
+<img width="1280" height="2856" alt="Screenshot_1771327819" src="https://github.com/user-attachments/assets/13ec7a15-e4d1-4347-befc-58467aededc9" />
+<img width="1280" height="2856" alt="Screenshot_1770915242" src="https://github.com/user-attachments/assets/2f1f2c1e-385c-42c8-989f-f9fbae31f2ee" />
+<img width="1280" height="2856" alt="Screenshot_1771327787" src="https://github.com/user-attachments/assets/8416cd51-fd4c-4523-8794-e7cafde6abfd" />
 
 ## How To Run
